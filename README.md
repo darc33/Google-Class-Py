@@ -7,3 +7,5 @@ Solutions of the google python class:
 - String 1 and 2
 - Mimic
 - Word count
+- Copyspecial
+- Logpuzzle
